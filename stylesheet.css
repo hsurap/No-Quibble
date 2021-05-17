@@ -1,0 +1,78 @@
+
+.header{
+    height:500px;
+    background-color: white;
+    border:1px solid black;
+}
+.header img{
+
+    padding:20px;
+    padding-left:10px;
+    height:450px;
+    float:left;
+}
+.header h1{
+    font-size:xx-large;
+    padding-left:400px;
+
+}
+.block1{
+    padding:50px 100px;
+    background-color: #ff4c68;
+}
+.something{
+    align-self: center;
+}
+html{
+    background-color: #ff4c68;
+}
+.main{
+    padding:50px 100px;
+    background-color: #ff4c68;
+}
+.footer{
+    padding-bottom:20px;
+}
+.container-fluid{
+  padding: 7% 15%;
+  text-align: center;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.img1{
+  margin-left: 48px;
+}
+.listnav{
+  margin-right: 65px;
+}
+.iconclass{
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
